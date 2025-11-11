@@ -26,4 +26,4 @@ else:
     else:
         status = "Obese"
 
-    print(f"BMI: {bmi:.2f} → {status}")
+    print(f"BMI: {bmi:.2f} -> {status}")
